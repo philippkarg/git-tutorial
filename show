@@ -1,0 +1,59 @@
+[33mcommit 6210f0fbf10207d9e99bc15727d89d1948949d31[m[33m ([m[1;36mHEAD -> [m[1;32mexercise[m[33m, [m[1;31morigin/exercise[m[33m)[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 15:42:49 2020 +0200
+
+    This guy is proud of you
+
+[33mcommit 4afd7e7268fcdbedc716824b510e966f6e150f7e[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 15:42:25 2020 +0200
+
+    The ESPL library
+
+[33mcommit 4c606f015042c384cbef0ff1d6ef4260a24f51a5[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 15:42:01 2020 +0200
+
+    A library of sorts
+
+[33mcommit eeabd42a4da46047e3648c60e0f7de6d673c02a3[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 15:41:20 2020 +0200
+
+    CMakeLists patch to include, build and link ESPL library
+
+[33mcommit 0dfdb314f7548fcdc99c1e0e6e6d2d009fbb3af1[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 15:40:36 2020 +0200
+
+    All praise Linus
+
+[33mcommit fbca77480cb64daa84074472c84c749605c23e57[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 15:39:52 2020 +0200
+
+    Instructions on how to continue
+
+[33mcommit db8a6423deb6f1d04a48e65231560b243f298910[m[33m ([m[1;31morigin/compiling[m[33m)[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Thu Apr 16 14:56:50 2020 +0200
+
+    Instructions on compiling C projects
+
+[33mcommit 665a11917a3e2b34325476ba8faf9753b3f76b90[m[33m ([m[1;31morigin/make[m[33m, [m[1;32mmake[m[33m)[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Tue Apr 14 18:05:08 2020 +0200
+
+    CMakeLists for a basic C project
+
+[33mcommit 1c96503b4f44ecb3d0295cd414fbc647938c1198[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Tue Apr 14 18:04:10 2020 +0200
+
+    First step instructions, found in README.md
+
+[33mcommit 7c4ed9580acffb5693c3ad9b955af83ba68bcd2b[m
+Author: Alex Hoffman <alxhoff@gmail.com>
+Date:   Wed Mar 27 16:49:46 2019 +0100
+
+    Initial commit
