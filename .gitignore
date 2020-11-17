@@ -1,1 +1,5 @@
-build/
+doc/html
+doc/latex
+bin
+build
+
